@@ -3,6 +3,7 @@
     padding: 5rem;
     border-radius: 20px;
     width: 80%;
+    color: white;
 }
 
 .sub-url-div .form {
@@ -23,4 +24,9 @@
 }
 .sub-url-div .form button {
     width: 20%;
+}
+.links {
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 0;
 }
