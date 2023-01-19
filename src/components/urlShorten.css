@@ -1,0 +1,26 @@
+.url-div {
+    background-color: darkcyan;
+    padding: 5rem;
+    border-radius: 20px;
+    width: 80%;
+}
+
+.sub-url-div .form {
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 1rem;
+    width: 100%;
+}
+
+.sub-url-div .form input {
+    width: 80%;
+    border: none;
+    border-radius: 10px;
+}
+.sub-url-div .form input:hover {
+    border: none;
+    outline: none;
+}
+.sub-url-div .form button {
+    width: 20%;
+}
